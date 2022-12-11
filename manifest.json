@@ -1,0 +1,472 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/lucenenet/lucenenet/main-repo/websites/site",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "../../branding/logo/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "logo/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../../branding/logo/lucene-net-color.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo/lucene-net-color.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../../branding/logo/lucene-net-icon-64x64.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo/lucene-net-icon-64x64.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../../branding/logo/lucene-net-reverse-color.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo/lucene-net-reverse-color.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/community-links.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/community-links.html",
+          "hash": "q3QPeqzvMhsj7bm8IL8VXBeexrRzsY5Q7jbp8xFUOyY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/current-status.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/current-status.html",
+          "hash": "WW/Hn1EMCw1jRBchF6VZ4NGe8EUNbgth/S6e7KnpTh4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/documentation.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/documentation.html",
+          "hash": "eBLacDEtRFa/onUDQMtdX9nzl45/R+Efo44FMszT8k8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/index.html",
+          "hash": "p8O+uD9TvfMBDW6qVNSXrD+TUU7Z/N+aiFNA1fyE3vk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/issue-tracker.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/issue-tracker.html",
+          "hash": "cIfSwdc6lMjYn7gfyFhW9u67scM0itNAOSejKwiPefY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/mailing-lists.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/mailing-lists.html",
+          "hash": "piLhUKmDbPxB82D/VIoGvj2RpmKZVkAcsOLKyM3CYyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/make-release.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/make-release.html",
+          "hash": "Cd4iS4euwsolbeajOH3xWVbBBfzSaUwAyoztHk6DvT8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/source.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/source.html",
+          "hash": "qq7AeUcs01z22KBzuv6gKsbOyIKNCdvZg6dOqBvzhTo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "contributing/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/toc.html",
+          "hash": "dvANsNT+c6CcfvZMchyMdgcKvLp4l+nmf0bEd3HnQOk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/versioning.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/versioning.html",
+          "hash": "fQNnVkcBkL/ZfJzg+7sDkOlEcQIi5Gt0O58PSbZykZ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/wiki.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/wiki.html",
+          "hash": "v7jeEIAEMLAcfn2QwhaPlNc5cnDvyreZXmZeQMutgtE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs.html",
+          "hash": "9TIk0p2OwKs841fuqJAxwVB8jWQejAgqTHL9yLZb/es="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/download.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/download.html",
+          "hash": "2AwXMyWt5U3A7tjDfaJJ778iw8Nq9YfSk0/WA1Uxz9o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "download/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "download/toc.html",
+          "hash": "g78N4rlzV8/3Yhgx3wPEZ9s+fagmHtiGeD2WQJeFbwk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-2.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-2.html",
+          "hash": "W9CsY3YyVWFfpQcz9nV2I3tqobi+OtRDpsodnUPMTms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-3.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-3.html",
+          "hash": "4F2UMX5gTtGdO9UwsqpJUU/PgqtqudaNjIeZiVFwgFA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00007.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00007.html",
+          "hash": "ZOcJgGMbgziQeiPy3hT5UsYwMQu86n91R+xnKUsVAKw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00008.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00008.html",
+          "hash": "cvcKwX7jc7/ws6qqE5l1zxesuOkkzJBIl50yDWH1SN4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00009.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00009.html",
+          "hash": "7rcHOo9q6xRWErrymg7i1XeSCS5gZsLkyppUvj6MOVo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00010.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00010.html",
+          "hash": "sfbYisEpkod+pyhpx0Ysc8kqvD0KnTshLuvS9SIDdgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00011.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00011.html",
+          "hash": "i9bBTq6N3fjW0Q8WU8IOqlamHH2x1TXsAaz+KrAiC8o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00012.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00012.html",
+          "hash": "PE9BRFt/n32ZxobXaUd+D2zvzy0d1/oevy4qdPyj5GE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00013.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00013.html",
+          "hash": "k6iVbEeCOZJcUi4Byh0bPU5ccYV9jiP2rDkKwEOm3js="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00014.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00014.html",
+          "hash": "ZYP7kpyLnGqcOty9ma4nuBDKAhKJAUkC/npJkMG6MRg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/version-4.8.0-beta00015.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/version-4.8.0-beta00015.html",
+          "hash": "hL8ECuFtJOV9CKSmXyhRVKBO9eur2tYAx6An1oGSh6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "index",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "PyPlaackNYHlPYIAKdiVho8b6tWzOzpNTVMVXgs+D6g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "lucenetemplate/doap_Lucene_Net.rdf",
+      "output": {
+        "resource": {
+          "relative_path": "doap_Lucene_Net.rdf"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "release-notes/version-4.8.0-beta00013.md",
+      "output": {
+        ".html": {
+          "relative_path": "release-notes/version-4.8.0-beta00013.html",
+          "hash": "ZpLeC9XR68Jabfv/sqlQQ/IHEtuGa9liBHUENptyVe0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "release-notes/version-4.8.0-beta00014.md",
+      "output": {
+        ".html": {
+          "relative_path": "release-notes/version-4.8.0-beta00014.html",
+          "hash": "CXL75mIEbk6miucmzdlb55rhWtvSg7zTnSA4ah91bU4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "release-notes/version-4.8.0-beta00015.md",
+      "output": {
+        ".html": {
+          "relative_path": "release-notes/version-4.8.0-beta00015.html",
+          "hash": "4Ep3BsF3uAgGQvfbKu23Ut6w7XOixhqzbXKXuVpvCn8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "o/OCxwLEvhbaQXjLICCSbkAPGDYCeBwLv7tKrs4kuto="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 27,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
